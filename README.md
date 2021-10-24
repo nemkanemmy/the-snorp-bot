@@ -1,0 +1,2 @@
+# the-snorp-bot
+yes
